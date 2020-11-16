@@ -1,12 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Local settings (.vs)",
-    "\\Local settings (.vs)\\react_webpack_starter",
-    "\\node_modules",
     "\\src",
     "\\src\\components"
   ],
-  "SelectedNode": "\\webpack.config.js",
+  "SelectedNode": "\\src\\components\\App.js",
   "PreviewInSolutionExplorer": false
 }
